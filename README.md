@@ -4,6 +4,12 @@ A modern, responsive web application that generates random delicious dinner reci
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Application**: [https://what-is-for-dinnerr.vercel.app/](https://what-is-for-dinnerr.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - 🎲 **Random Recipe Selector**: Uses `Math.random()` to generate a new meal recommendation without repeating the same dish twice in a row.
